@@ -1,5 +1,7 @@
-### Hi there 👋
+### Hi there, I'm Islam 👋
 
+[![twitter badge](https://img.shields.io/badge/twitter-@islammohamedd1-%231FA1F1?style=flat&logo=twitter&logoColor=white)](https://twitter.com/islammohamedd1)
+[![linkedin badge](https://img.shields.io/badge/linkedin-islamMmhamed-%230177B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/islam-mohamed-33a675165)
 <!--
 **islammohamedd1/islammohamedd1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
